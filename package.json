@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeliaaa/academy-backend.git"
+    "url": "https://github.com/jeliaaa/academy-backend/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/jeliaaa/academy-backend#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
