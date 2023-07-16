@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jeliaaa/academy-backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jeliaaa/academy-backend.git"
   },
   "homepage": "",
   "dependencies": {
